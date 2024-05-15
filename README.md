@@ -2,7 +2,7 @@
 ![greetings](https://user-images.githubusercontent.com/110078755/193393781-9c3579ca-1d5b-43b6-ae12-4d8fc018a1e7.gif)
 
 
-<h1 align="center">Hi 👋, I'm Shivendra Singh</h1> 
+<h1 align="center">Hi 👋, I'm Atit Panchal</h1> 
 <h3 align="center">__A passionate frontend developer from India__</h3>
 
 </br>
@@ -41,12 +41,12 @@
 </br>
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivaay044&show_icons=true&locale=en&layout=compact" alt="Shivaay044" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atitp07&show_icons=true&locale=en&layout=compact" alt="atitp07" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivaay044&show_icons=true&locale=en" alt="Shivaay044" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atitp07&show_icons=true&locale=en" alt="atitp07" /></p>
 
 </br>
 </br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaay044&" alt="Shivaay044" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atitp07&" alt="atitp07" /></p>
