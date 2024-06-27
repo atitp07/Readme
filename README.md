@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 Visit **[My personal site](https://shivaay044.github.io/)** 
-
 - 💬 Ask me about **React releated projects**
 
 - ⚡ Fun fact **I think I am Funny**
