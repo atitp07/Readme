@@ -18,7 +18,7 @@
 </br>
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivaay044" alt="Shivaay044" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atitp07" alt="atitp07" /></a> </p>
 
 </br>
 </br>
