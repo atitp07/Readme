@@ -25,7 +25,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/atit-panchal-4959102a6/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivendrasingh044/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atit-panchal/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivendrasingh044/" height="30" width="40" /></a>
 </p>
 
 </br>
